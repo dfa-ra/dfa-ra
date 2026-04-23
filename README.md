@@ -66,7 +66,7 @@ Android app for generating motivational, comic, and pickup-style content with ne
 
 ---
 
-## Contribution Snake
+## Snake -_- 
 
 <div align="center">
 
