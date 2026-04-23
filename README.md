@@ -32,7 +32,7 @@ I’m a student developer interested in backend, Android, and low-level programm
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,kotlin,linux,androidstudio,git,github,docker,sqlite,fastapi" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,kotlin,linux,androidstudio,git,github,docker" />
 </div>
 
 ---
